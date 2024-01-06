@@ -2,4 +2,4 @@
 this is my first Git 
 <br>
 <B> bold </B>
-<i> italic </i>
+<u> italic </u>
