@@ -1,4 +1,3 @@
 # mydemo
-this is my first Git 
-<B> bold </B>
-Author-Abid hussain
+This is my first Git 
+<B> Author-Abid hussain </B>
